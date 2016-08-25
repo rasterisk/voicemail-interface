@@ -1,1 +1,1 @@
-# web interface to access voicemail asterisk
+# web interface to voicemail asterisk
